@@ -1,0 +1,24 @@
+_repo: Book-of-Nations-for-Children_60019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/ebooks/author/216
+description: ''
+gutenberg_issued: '2019-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Juvenile literature'
+- !lcc 'G'
+- !lcsh 'Geography -- Juvenile literature'
+- GITenberg
+title: Book of Nations, for Children
+url: http://www.gutenberg.org/ebooks/60019
