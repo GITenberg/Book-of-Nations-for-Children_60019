@@ -1,5 +1,8 @@
 _repo: Book-of-Nations-for-Children_60019
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60019-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60019#Book-of-Nations-for-Children
 gutenberg_issued: '2019-07-30'
 gutenberg_type: Text
 identifiers:
